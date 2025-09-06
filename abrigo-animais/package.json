@@ -1,0 +1,11 @@
+
+{
+  "name": "abrigo-animais",
+  "version": "1.0.0",
+  "description": "Desafio Abrigo de Animais",
+  "main": "src/abrigo-animais.js",
+  "scripts": { "test": "jest" },
+  "author": "Cleyton Antenor",
+  "license": "MIT",
+  "devDependencies": { "jest": "^29.0.0" }
+}
